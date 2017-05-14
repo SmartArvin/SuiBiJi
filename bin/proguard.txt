@@ -1,0 +1,42 @@
+# view AndroidManifest.xml #generated:69
+-keep class com.miyang.suibiji.SB_About { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.miyang.suibiji.SB_Change { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.miyang.suibiji.SB_Choice { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.miyang.suibiji.SB_Content { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.miyang.suibiji.SB_ContentCheck { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.miyang.suibiji.SB_Create { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.miyang.suibiji.SB_Home { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.miyang.suibiji.SB_Like { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.miyang.suibiji.SB_LikeCheck { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.miyang.suibiji.SB_Login { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.miyang.suibiji.SB_Register { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.miyang.suibiji.SB_Safe { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.miyang.suibiji.SB_Search { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.miyang.suibiji.SB_Welcome { <init>(...); }
+
